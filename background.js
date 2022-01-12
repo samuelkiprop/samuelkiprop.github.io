@@ -1,5 +1,5 @@
 // Initialising the canvas
-var canvas = document.querySelector('canvas'),
+var canvas = document.querySelector('#about'),
     ctx = canvas.getContext('2d');
 
 // Setting the width and height of the canvas
