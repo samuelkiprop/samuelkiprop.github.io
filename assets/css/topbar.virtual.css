@@ -305,7 +305,7 @@
 
 .testi-content {
   font-size: 18px;
-  position: static;
+  display: flex;
 }
 
 .testi-info {
