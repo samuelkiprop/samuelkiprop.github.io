@@ -293,9 +293,9 @@
 .testi-carousel .item .img-place {
   max-width: 350px;
   height: auto;
-  background-color: #f4f5f8;
+  background-color: #fff;
   border-radius: 4px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .testi-carousel .item .caption {
