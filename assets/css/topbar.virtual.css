@@ -292,7 +292,7 @@
 
 .testi-carousel .item .img-place {
   max-width: 350px;
-  height: 300px;
+  height: auto;
   background-color: #f4f5f8;
   border-radius: 4px;
   overflow: hidden;
