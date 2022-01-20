@@ -295,7 +295,7 @@
   height: auto;
   background-color: #fff;
   border-radius: 4px;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .testi-carousel .item .caption {
@@ -312,7 +312,7 @@
   flex-wrap: nowrap;
   flex-direction: row;
   align-items: center;
-  margin-top: 10px;
+  margin-top: 16px;
   width: 100%;
 }
 
